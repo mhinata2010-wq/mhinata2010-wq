@@ -64,4 +64,5 @@ Build small. Test with real users. Improve through feedback.
   <img src="./assets/tool-icons/vscode.svg" width="40" height="40" alt="Visual Studio Code" title="Visual Studio Code" />
   <img src="./assets/tool-icons/xcode.svg" width="40" height="40" alt="Xcode" title="Xcode" />
   <img src="./assets/tool-icons/obsidian.svg" width="40" height="40" alt="Obsidian" title="Obsidian" />
+   <img src="./assets/tool-icons/claude_AI_logo.svg" width="80" height="40" alt="claude" title="claude" />
 </p>
