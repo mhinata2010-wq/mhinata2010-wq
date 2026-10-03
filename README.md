@@ -61,10 +61,7 @@ Build small. Test with real users. Improve through feedback.
   <img src="./assets/tool-icons/premiere-pro.svg" width="40" height="40" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" />
   <img src="./assets/tool-icons/canva.svg" width="40" height="40" alt="Canva" title="Canva" />
   <img src="./assets/tool-icons/blender.svg" width="40" height="40" alt="Blender" title="Blender" />
-  <img src="./assets/tool-icons/fusion-360.svg" width="40" height="40" alt="Autodesk Fusion 360" title="Autodesk Fusion 360" />
-  <img src="./assets/tool-icons/onshape.svg" width="40" height="40" alt="Onshape" title="Onshape" />
   <img src="./assets/tool-icons/vscode.svg" width="40" height="40" alt="Visual Studio Code" title="Visual Studio Code" />
   <img src="./assets/tool-icons/xcode.svg" width="40" height="40" alt="Xcode" title="Xcode" />
-  <img src="./assets/tool-icons/github-desktop.svg" width="40" height="40" alt="GitHub Desktop" title="GitHub Desktop" />
   <img src="./assets/tool-icons/obsidian.svg" width="40" height="40" alt="Obsidian" title="Obsidian" />
 </p>
