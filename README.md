@@ -43,3 +43,7 @@ and supporting local communities through technology and design.
 ## My Approach
 
 Build small. Test with real users. Improve through feedback.
+
+## My Contribution Journey 🐍
+
+![Snake eating my GitHub contributions](https://raw.githubusercontent.com/mhinata2010-wq/mhinata2010-wq/output/snake.svg)
