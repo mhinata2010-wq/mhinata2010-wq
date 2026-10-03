@@ -57,7 +57,7 @@ Build small. Test with real users. Improve through feedback.
   <img src="./assets/tool-icons/figma.svg" width="40" height="40" alt="Figma" title="Figma" />
   <img src="./assets/tool-icons/illustrator.svg" width="40" height="40" alt="Adobe Illustrator" title="Adobe Illustrator" />
   <img src="./assets/tool-icons/photoshop.svg" width="40" height="40" alt="Adobe Photoshop" title="Adobe Photoshop" />
-  <img src="./assets/tool-icons/after-effects.svg" width="40" height="40" alt="Adobe After Effects" title="Adobe After Effects" />
+   <img src="./assets/tool-icons/Ae.svg" width="40" height="40" alt="Ae" title="Ae" />
   <img src="./assets/tool-icons/premiere-pro.svg" width="40" height="40" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" />
   <img src="./assets/tool-icons/canva.svg" width="40" height="40" alt="Canva" title="Canva" />
   <img src="./assets/tool-icons/blender.svg" width="40" height="40" alt="Blender" title="Blender" />
@@ -66,4 +66,5 @@ Build small. Test with real users. Improve through feedback.
   <img src="./assets/tool-icons/obsidian.svg" width="40" height="40" alt="Obsidian" title="Obsidian" />
    <img src="./assets/tool-icons/claude.svg" width="80" height="40" alt="claude" title="claude" />
    <img src="./assets/tool-icons/morisawa.svg" width="80" height="40" alt="morisawa" title="morisawa" />
+   
 </p>
