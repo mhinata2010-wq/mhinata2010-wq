@@ -47,3 +47,7 @@ Build small. Test with real users. Improve through feedback.
 ## My Contribution Journey 🐍
 
 ![Snake eating my GitHub contributions](https://raw.githubusercontent.com/mhinata2010-wq/mhinata2010-wq/output/snake.svg)
+
+## Tools I Use
+
+[![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,ae,pr,blender,autodesk,github,vscode,apple,slack,discord&perline=6)](https://skillicons.dev)
