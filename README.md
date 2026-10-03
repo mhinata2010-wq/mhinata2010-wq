@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Hinata Miyaji 👋
+# Hi, I'm Hinata Miyaji 👋[![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Exploring+AI;Building+Software;Designing+Experiences;Building.+Testing.+Learning.)](https://github.com/mhinata2010-wq)
 
 ### AI · Software Development · Design
 
