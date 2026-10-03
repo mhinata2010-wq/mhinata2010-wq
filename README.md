@@ -48,6 +48,25 @@ Build small. Test with real users. Improve through feedback.
 
 ![Snake eating my GitHub contributions](https://raw.githubusercontent.com/mhinata2010-wq/mhinata2010-wq/output/snake.svg)
 
-## Tools I Use
-
-[![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,ae,pr,blender,autodesk,github,vscode,apple,slack,discord&perline=6)](https://skillicons.dev)
+<p align="left">
+  <img src="./assets/tool-icons/codex.svg" width="40" height="40" alt="Codex" title="Codex" />
+  <img src="./assets/tool-icons/chatgpt.svg" width="40" height="40" alt="ChatGPT" title="ChatGPT" />
+  <img src="./assets/tool-icons/claude.svg" width="40" height="40" alt="Claude" title="Claude" />
+  <img src="./assets/tool-icons/notebooklm.svg" width="40" height="40" alt="NotebookLM" title="NotebookLM" />
+  <img src="./assets/tool-icons/facebook.svg" width="40" height="40" alt="Facebook" title="Facebook" />
+  <img src="./assets/tool-icons/figma.svg" width="40" height="40" alt="Figma" title="Figma" />
+  <img src="./assets/tool-icons/illustrator.svg" width="40" height="40" alt="Adobe Illustrator" title="Adobe Illustrator" />
+  <img src="./assets/tool-icons/photoshop.svg" width="40" height="40" alt="Adobe Photoshop" title="Adobe Photoshop" />
+  <img src="./assets/tool-icons/after-effects.svg" width="40" height="40" alt="Adobe After Effects" title="Adobe After Effects" />
+  <img src="./assets/tool-icons/premiere-pro.svg" width="40" height="40" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" />
+  <img src="./assets/tool-icons/canva.svg" width="40" height="40" alt="Canva" title="Canva" />
+  <img src="./assets/tool-icons/blender.svg" width="40" height="40" alt="Blender" title="Blender" />
+  <img src="./assets/tool-icons/fusion-360.svg" width="40" height="40" alt="Autodesk Fusion 360" title="Autodesk Fusion 360" />
+  <img src="./assets/tool-icons/onshape.svg" width="40" height="40" alt="Onshape" title="Onshape" />
+  <img src="./assets/tool-icons/vscode.svg" width="40" height="40" alt="Visual Studio Code" title="Visual Studio Code" />
+  <img src="./assets/tool-icons/xcode.svg" width="40" height="40" alt="Xcode" title="Xcode" />
+  <img src="./assets/tool-icons/github-desktop.svg" width="40" height="40" alt="GitHub Desktop" title="GitHub Desktop" />
+  <img src="./assets/tool-icons/slack.svg" width="40" height="40" alt="Slack" title="Slack" />
+  <img src="./assets/tool-icons/microsoft-teams.svg" width="40" height="40" alt="Microsoft Teams" title="Microsoft Teams" />
+  <img src="./assets/tool-icons/obsidian.svg" width="40" height="40" alt="Obsidian" title="Obsidian" />
+</p>
