@@ -19,6 +19,10 @@ Wikipedia and Wikimedia Commons often host the original vector artwork, but each
 - **Visual Studio Code:** https://commons.wikimedia.org/wiki/File:Visual_Studio_Code_1.35_icon.svg
 - **GitHub Desktop:** https://commons.wikimedia.org/wiki/File:Github-desktop-logo-symbol.svg
 - **Obsidian:** https://commons.wikimedia.org/wiki/File:2023_Obsidian_logo.svg
+- **Blender Foundation** - https://www.blender.org/, パブリック・ドメイン, https://commons.wikimedia.org/w/index.php?curid=198054919による
+- **株式会社モリサワ** - https://www.morisawa.co.jp/img/common/corporate_logo.svg, パブリック・ドメイン, https://commons.wikimedia.org/w/index.php?curid=126280823による
+-**Anthropic**- https://claude.ai/, パブリック・ドメイン, https://commons.wikimedia.org/w/index.php?curid=151077388による 
+- **Google LLC** - Extracted from About Gemini (Inline SVG), パブリック・ドメイン, https://commons.wikimedia.org/w/index.php?curid=169071948による  - **Adobe Inc.** - https://blogs.adobe.com/creative/2020_05_brand-identity-update/, パブリック・ドメイン, https://commons.wikimedia.org/w/index.php?curid=52693533による
 
 ## Additional icons
 
