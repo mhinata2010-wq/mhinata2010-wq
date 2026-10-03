@@ -26,3 +26,4 @@ Wikipedia and Wikimedia Commons often host the original vector artwork, but each
 - **Codex:** represented with the OpenAI symbol; it is not a standalone Codex logo.
 
 Company names and marks remain the property of their respective owners. The presence of a Commons file does not itself grant permission to use a trademark as an endorsement. Review the individual file page for its license and attribution requirements.
+Conrado.arias - 投稿者自身による著作物, CC 表示-継承 4.0, https://commons.wikimedia.org/w/index.php?curid=107255913による
