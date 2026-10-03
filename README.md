@@ -58,7 +58,7 @@ Build small. Test with real users. Improve through feedback.
   <img src="./assets/tool-icons/illustrator.svg" width="40" height="40" alt="Adobe Illustrator" title="Adobe Illustrator" />
   <img src="./assets/tool-icons/photoshop.svg" width="40" height="40" alt="Adobe Photoshop" title="Adobe Photoshop" />
    <img src="./assets/tool-icons/Ae.svg" width="40" height="40" alt="Ae" title="Ae" />
-  <img src="./assets/tool-icons/premiere-pro.svg" width="40" height="40" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" />
+  <img src="./assets/tool-icons/Pr.svg" width="40" height="40" alt="Pr" title="Pr" />
   <img src="./assets/tool-icons/canva.svg" width="40" height="40" alt="Canva" title="Canva" />
   <img src="./assets/tool-icons/blender.svg" width="40" height="40" alt="Blender" title="Blender" />
   <img src="./assets/tool-icons/vscode.svg" width="40" height="40" alt="Visual Studio Code" title="Visual Studio Code" />
