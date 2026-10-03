@@ -66,7 +66,5 @@ Build small. Test with real users. Improve through feedback.
   <img src="./assets/tool-icons/vscode.svg" width="40" height="40" alt="Visual Studio Code" title="Visual Studio Code" />
   <img src="./assets/tool-icons/xcode.svg" width="40" height="40" alt="Xcode" title="Xcode" />
   <img src="./assets/tool-icons/github-desktop.svg" width="40" height="40" alt="GitHub Desktop" title="GitHub Desktop" />
-  <img src="./assets/tool-icons/slack.svg" width="40" height="40" alt="Slack" title="Slack" />
-  <img src="./assets/tool-icons/microsoft-teams.svg" width="40" height="40" alt="Microsoft Teams" title="Microsoft Teams" />
   <img src="./assets/tool-icons/obsidian.svg" width="40" height="40" alt="Obsidian" title="Obsidian" />
 </p>
