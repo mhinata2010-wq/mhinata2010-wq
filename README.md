@@ -52,19 +52,13 @@ Build small. Test with real users. Improve through feedback.
   <img src="./assets/tool-icons/codex.svg" width="40" height="40" alt="Codex" title="Codex" />
   <img src="./assets/tool-icons/chatgpt.svg" width="40" height="40" alt="ChatGPT" title="ChatGPT" />
   <img src="./assets/tool-icons/claude.svg" width="40" height="40" alt="Claude" title="Claude" />
-  <img src="./assets/tool-icons/notebooklm.svg" width="40" height="40" alt="NotebookLM" title="NotebookLM" />
   <img src="./assets/tool-icons/facebook.svg" width="40" height="40" alt="Facebook" title="Facebook" />
   <img src="./assets/tool-icons/figma.svg" width="40" height="40" alt="Figma" title="Figma" />
   <img src="./assets/tool-icons/illustrator.svg" width="40" height="40" alt="Adobe Illustrator" title="Adobe Illustrator" />
   <img src="./assets/tool-icons/photoshop.svg" width="40" height="40" alt="Adobe Photoshop" title="Adobe Photoshop" />
    <img src="./assets/tool-icons/Ae.svg" width="40" height="40" alt="Ae" title="Ae" />
   <img src="./assets/tool-icons/Pr.svg" width="40" height="40" alt="Pr" title="Pr" />
-  <img src="./assets/tool-icons/canva.svg" width="40" height="40" alt="Canva" title="Canva" />
-  <img src="./assets/tool-icons/blender.svg" width="40" height="40" alt="Blender" title="Blender" />
   <img src="./assets/tool-icons/vscode.svg" width="40" height="40" alt="Visual Studio Code" title="Visual Studio Code" />
-  <img src="./assets/tool-icons/xcode.svg" width="40" height="40" alt="Xcode" title="Xcode" />
   <img src="./assets/tool-icons/obsidian.svg" width="40" height="40" alt="Obsidian" title="Obsidian" />
-   <img src="./assets/tool-icons/claude.svg" width="80" height="40" alt="claude" title="claude" />
-   <img src="./assets/tool-icons/morisawa.svg" width="80" height="40" alt="morisawa" title="morisawa" />
    
 </p>
